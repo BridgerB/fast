@@ -1,0 +1,7 @@
+{
+  "name": "fast",
+  "compatibility_date": "2025-12-13",
+  "assets": {
+    "directory": "./build"
+  }
+}
